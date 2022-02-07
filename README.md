@@ -6,6 +6,8 @@ This repo helps to reproduce an issue created on the [Simple Git](https://github
 - eslint: 8.8.0
 - simple-git: 3.1.1
 
+More info: <https://github.com/steveukx/git-js/issues/324#issuecomment-1031689894>
+
 ## Install
 
 ```console
