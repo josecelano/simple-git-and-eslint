@@ -1,6 +1,6 @@
 # SimpleGit and ESlint
 
-This repo helps to reproduce an issue created on the [Simple Git](https://github.com/steveukx/git-js) repo.
+This repo helps to reproduce an issue commented on the [Simple Git](https://github.com/steveukx/git-js) repo.
 
 - typescript: 4.5.5
 - eslint: 8.8.0
