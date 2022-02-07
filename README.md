@@ -23,3 +23,22 @@ yarn install
 ```console
 yarn lint
 ```
+
+The import statement:
+
+```typescript
+import simpleGit, {SimpleGit} from 'simple-git'
+```
+
+You should see:
+
+```
+SimpleGit not found in 'simple-git'  import/named
+```
+
+Solution:
+
+```typescript
+import {SimpleGit} from 'simple-git/typings/simple-git.d'
+import simpleGit from 'simple-git'
+```
