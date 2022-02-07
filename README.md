@@ -42,3 +42,5 @@ Solution:
 import {SimpleGit} from 'simple-git/typings/simple-git.d'
 import simpleGit from 'simple-git'
 ```
+
+I have not been able to reproduce the problem. THe original problem was found on [this](https://github.com/Nautilus-Cyberneering/git-queue) repo.
